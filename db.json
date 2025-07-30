@@ -1,4 +1,4 @@
-{
+ {
   "blogPosts": [
     {
       "id": 1,
@@ -7,8 +7,7 @@
       "date": "21 July",
       "thumbnail": "https://img.freepik.com/free-photo/low-angle-view-skyscrapers_1359-1105.jpg?t=st=1753688313~exp=1753691913~hmac=c282517d6b475581beec9868b7c024851639655dd7e63d63087e8158113cbcd6&w=1380",
       "category": "ERP",
-      "content": "The Film Commission announced the launch of the third annual Film Criticism Conference and its accompanying events, held under the theme Cinema: the Art of Place. This year's conference will take place in three cultural hubs: Aseer in August, followed by Qatif in October, and concluding in Riyadh in November.",
-
+      "content": "The Film Commission announced the launch of the third annual Film Criticism Conference and its accompanying events, held under the theme Cinema: the Art of Place. This year's conference will take place in three cultural hubs: Aseer in August, followed by Qatif in October, and concluding in Riyadh in November."
     },
     {
       "id": 2,
@@ -17,7 +16,7 @@
       "date": "23 July",
       "thumbnail": "https://api.riyadh.sa/sites/default/files/styles/medium/public/news/2025-07/1%20%281%29_5.jpg?itok=WE19vJfS",
       "category": "CRM",
-      "content": "The Film Commission announced the launch of the third annual Film Criticism Conference and its accompanying events, held under the theme Cinema: the Art of Place. This year's conference will take place in three cultural hubs: Aseer in August, followed by Qatif in October, and concluding in Riyadh in November.",
+      "content": "The Film Commission announced the launch of the third annual Film Criticism Conference and its accompanying events, held under the theme Cinema: the Art of Place. This year's conference will take place in three cultural hubs: Aseer in August, followed by Qatif in October, and concluding in Riyadh in November."
     },
     {
       "id": 3,
@@ -62,15 +61,6 @@
       "date": "26 July",
       "thumbnail": "https://api.riyadh.sa/sites/default/files/styles/medium/public/news/2025-07/Screen%20Shot%202025-07-09%20at%2011.53.12%20AM.png?itok=2b4aDtXc",
       "category": "CRM",
-      "content": "The Film Commission announced the launch of the third annual Film Criticism Conference and its accompanying events, held under the theme Cinema: the Art of Place. This year's conference will take place in three cultural hubs: Aseer in August, followed by Qatif in October, and concluding in Riyadh in November."
-    },
-    {
-      "id": 8,
-      "title": "SASCA Concludes 'Art Journey' Training Camp in Riyadh",
-      "author": "Tejram Paswan",
-      "date": "26 July",
-      "thumbnail": "https://api.riyadh.sa/sites/default/files/styles/medium/public/news/2025-07/Screen%20Shot%202025-07-09%20at%2011.30.09%20AM.png?itok=9EGfPX4E",
-      "category": "Accounting",
       "content": "The Film Commission announced the launch of the third annual Film Criticism Conference and its accompanying events, held under the theme Cinema: the Art of Place. This year's conference will take place in three cultural hubs: Aseer in August, followed by Qatif in October, and concluding in Riyadh in November."
     },
     {
